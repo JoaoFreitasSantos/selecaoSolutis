@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: replicante
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: João Felipe
+Implementation-Vendor-Id: com.solutis.clonaria
+Build-Jdk: 1.8.0_72
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/replicante
+Created-By: Maven Integration for Eclipse
+
